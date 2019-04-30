@@ -1,8 +1,8 @@
 .image1 {
     height: 250px;
-    background-image: url(./images/p052j5kp.jpg); 
+    background-image: url('./images/p052j5kp.jpg)'; 
 }
 .image2 {
     height: 250px;
-    background-image: url(./images/water.jpeg);
+    background-image: url('./images/water.jpeg)';
 }
